@@ -826,10 +826,10 @@ footer .topFooter {
     opacity: 0;
     visibility: hidden;
     transition: all .5s ease-in-out;
-    -webkit-transition: transform 0.5s ease-in-out;
-    -moz-transition: transform 0.5s ease-in-out;
-    -ms-transition: transform 0.5s ease-in-out;
-    -o-transition: transform 0.5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -ms-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
   }
   header nav ul.active {
     transform: translateX(0%);

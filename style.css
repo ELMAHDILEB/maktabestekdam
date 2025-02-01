@@ -825,7 +825,7 @@ footer .topFooter {
     -o-transform: translateX(-100%);
     opacity: 0;
     visibility: hidden;
-    transition: transform 0.5s ease-in-out;
+    transition: all .5s ease-in-out;
     -webkit-transition: transform 0.5s ease-in-out;
     -moz-transition: transform 0.5s ease-in-out;
     -ms-transition: transform 0.5s ease-in-out;

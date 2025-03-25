@@ -784,6 +784,7 @@ footer .topFooter {
     flex-direction: column-reverse;
     justify-content: center;
     gap: 20px;
+    padding-inline:10px;
   }
   .aboutRight {
     padding-right: 0px;
@@ -839,6 +840,10 @@ footer .topFooter {
     -o-transform: translateX(0%);
     opacity: 1;
     visibility: visible;
+  }
+  .picture img {
+  width: 120px;
+  object-fit: cover;
   }
   #whyus {
     height: 100%;
